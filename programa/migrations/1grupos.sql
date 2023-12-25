@@ -1,0 +1,4 @@
+CREATE TABLE grupos (
+    nome   TEXT,
+    codigo INTEGER PRIMARY KEY AUTOINCREMENT
+)
